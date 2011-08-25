@@ -2,5 +2,6 @@ wisnu
 seno
 ida
 gatot
+santi
 angga
 trias
